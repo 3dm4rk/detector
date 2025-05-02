@@ -6,7 +6,7 @@
 
 A powerful monitoring tool that **detects multiple instances** of any application and delivers **full-screen warnings with sound alerts** when limits are exceeded. Perfect for enforcing single-instance policies or monitoring critical applications.
 
-![Demo Screenshot](demo-screenshot.png) *(Replace with actual screenshot)*
+![Demo Screenshot](image.png) 
 
 ## 🔥 Features
 
